@@ -1,7 +1,7 @@
 # 🎞️ MOVIE 영화
 
 ## 🌱 프로젝트 링크
-🔗 [ 영화 ](https://github.com/mjpark-2k/movie)
+🔗 [ MOVIE 영화 ](https://github.com/mjpark-2k/movie.git)
 
 ---
 
@@ -88,4 +88,4 @@ npm start
 
 ## 📞 연락처
 - 📧 Email: mjpark.2k@gmail.com
-- 📒 Github: [ Github ](https://github.com/mjpark-2k)
+- 📒 Github: [ mjpark-2k ](https://github.com/mjpark-2k)
