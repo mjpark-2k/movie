@@ -1,7 +1,7 @@
 # 🎞️ MOVIE 영화
 
 ## 🌱 프로젝트 링크
-🔗 [ MOVIE 영화 ](https://github.com/mjpark-2k/movie.git)
+🔗 [ MOVIE 영화 ](https://movie-mj2k.vercel.app)
 
 ---
 
